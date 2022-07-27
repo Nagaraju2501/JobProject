@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 
 /**
- * @author Kundana
+ * @author Nagaraju
  *
  */
 public class NewTest {
